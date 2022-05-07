@@ -1,0 +1,3 @@
+Ejercicio 1. Programa para validar una contraseña que debe tener máximo 10 caracteres y mínimo 8. La contraseña debe contener al menos 3 letras minúsculas, 1 letra mayúscula y 3 números.
+
+Ejercicio 2. Programa para ingresar 10 números flotantes en el rango de (0,1) (ambos incluidos) en una lista. Debemos imprimir el valor menor y mayor ingresados. Además, crearemos otra lista con los elementos que superen el valor promedio de la primera lista e imprimirlo.

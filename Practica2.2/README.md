@@ -1,0 +1,3 @@
+Programa para calcular el área y perímetro de al menos 5 figuras geométricas. Para cada figura geométrica debemos definir una clase, los atributos dependerán de la figura, deberá haber un método para cada cálculo así como un método para mostrar resultados.
+Debemos crear una función que sirva de menú principal donde el usuario elegirá qué figura desea calcular.
+El menú debe aparecer varias veces. Al final de la ejecución, debemos mostrar cuántas veces se realizaron  los cálculos de cada figura en el menú.
