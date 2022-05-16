@@ -1,1 +1,1 @@
-Ejemplo de una Clase: atributos y métodos
+En esta práctica buscamos un ejemplo de una clase con sus atributos y métodos.
