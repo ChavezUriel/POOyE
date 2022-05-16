@@ -1,10 +1,6 @@
-Instrucciones:
+Para esta práctica fueron creados 2 módulos "persona" y "cuenta_bancaria", ambos tienen atributos y métodos propios necesarios para la ejecución del archivo principal "main". 
 
-Modulo principal.py: Debe incluir un menú que permita:
-    a) Registrar Usuarios (definir una función)
-    b) Mostrar Usuarios Registrados (definir una función)
-    c) Buscar un usuario para realizar operaciones en su cuenta (definir una función)
-    d) Guardar en un archivo los usuarios registrados en un día (definir una función)
-En la opción “c) Buscar un usuario para realizar operaciones en su cuenta”, se deben incluir opciones para modificar datos del usuario y para realizar movimientos en su saldo. Se debe tener en cuenta cuáles atributos/métodos deberían ser públicos o privados.
+El archivo principal tiene funciones de registro de usuarios, realizar operaciones, mostrar usuarios registrados y guardar registro en un archivo, para ejecutarlas muestra un menú.
 
-Instrucciones en pdf: http://lmsdci.ugto.mx/pluginfile.php/23083/mod_assign/introattachment/0/practica5-grupoC.pdf?forcedownload=1
+El archivo "Instrucciones_Practica2.5.pdf" detalla lo requerido para la realización del ejercicio.
+
