@@ -1,0 +1,3 @@
+En esta práctica creamos las clases "persona" y "destreza" que heredan a las clases "alumno" y "profesor". Ambas clases hijo heredan de las otras dos clases, es decir, hay herencia múltiple. Las dos clases padre tienen atributos los cuales son heredados a las clases hijo, para lograr esto se usó la función "super", la cual emplea el MRO (Method Resolution Order) para decidir qué clases serán llamadas y en qué orden, esto evita la ejecución múltiple de clases padre que, aunque en este ejercicio no significa un problema, es una buena práctica para evitar repetir la ejecución de líneas de código que afecten al resultado final.
+
+El reporte incluido en esta carpeta detalla el funcionamiento de la función "super" en la ejecución de este programa.
