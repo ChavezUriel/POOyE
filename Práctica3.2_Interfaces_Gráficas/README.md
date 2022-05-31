@@ -1,0 +1,3 @@
+En esta práctica se practica el uso de la librería tkinter para la creación de interfaces gráficas creando una calculadora de operaciones básicas. La calculadora tiene respeta la jerarquía de operaciones teniendo suma, resta, multiplicación, división y potenciación, además de usar paréntesis. También tiene dos variables de memoria que permiten guardar resultados para cálculos posteriores.
+
+El reporte incluido en esta carpeta detalla el funcionamiento del código y muesta ejemplos de ejecución.
